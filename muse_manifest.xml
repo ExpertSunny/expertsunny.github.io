@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597084088034">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597084383812">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="275707474" ref="phone>index"/>
@@ -26,7 +26,7 @@
     <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3837263445" ref="phone>index"/>
+    <file name="favicon.ico" crc="3837263445" ref="phone>index:index"/>
     <file name="hack.jpg" crc="181928087" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -35,41 +35,32 @@
     </file>
     <file name="facebook.png" crc="317936629" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="team.png" crc="4007958405" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u998-4.png" crc="3983300925" ref="index"/>
     <file name="u999-4.png" crc="3876912019" ref="index"/>
     <file name="tweeter.png" crc="192439320" ref="index:phone>index">
       <caption webpage="index" alt="@ExpertSunny_IN"/>
-      <caption webpage="index" alt="@ExpertSunny_IN"/>
     </file>
     <file name="insta.png" crc="460234605" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="twitter.png" crc="4102706121" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="zrl07ev3_400x400.jpg" crc="3931845385" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="controller.png" crc="137317238" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1513-8.png" crc="370397119" ref="index"/>
     <file name="donate.png" crc="120565093" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="matrix.jpg" crc="360321399" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2063-4.png" crc="4114350853" ref="phone>index"/>
@@ -79,5 +70,5 @@
     <file name="gamedev-u2181-fr.jpg" crc="132033717" ref="phone>index"/>
     <file name="u2245-7.png" crc="4063490552" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="376354337" seo="true" mt="1597083541295" redirect="true"/>
+  <file name="index.html" crc="3853490871" seo="true" mt="1597084325966" redirect="true"/>
 </manifest>
