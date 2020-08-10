@@ -1,61 +1,83 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597075012148">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597083905033">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="275707474" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="75965507" seo="true" mt="1597083887568" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4077411620"/>
-    <file name="index.css" crc="3862906628" ref="index"/>
+    <file name="index.css" crc="26519490" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3939489907" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:phone>index"/>
+    <file name="require.js" crc="4177726516" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:phone>index"/>
+    <file name="webpro.js" crc="3856315280" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:phone>index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3837263445" ref="index"/>
+    <file name="favicon.ico" crc="3837263445" ref="phone>index"/>
     <file name="hack.jpg" crc="181928087" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gamedev.jpg" crc="500662507" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook.png" crc="317936629" ref="index">
+    <file name="facebook.png" crc="317936629" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team.png" crc="4007958405" ref="index">
+    <file name="team.png" crc="4007958405" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u998-4.png" crc="3983300925" ref="index"/>
     <file name="u999-4.png" crc="3876912019" ref="index"/>
-    <file name="tweeter.png" crc="192439320" ref="index">
+    <file name="tweeter.png" crc="192439320" ref="index:phone>index">
+      <caption webpage="index" alt="@ExpertSunny_IN"/>
       <caption webpage="index" alt="@ExpertSunny_IN"/>
     </file>
-    <file name="insta.png" crc="460234605" ref="index">
+    <file name="insta.png" crc="460234605" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter.png" crc="4102706121" ref="index">
+    <file name="twitter.png" crc="4102706121" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zrl07ev3_400x400.jpg" crc="3931845385" seo="true" ref="index">
+    <file name="zrl07ev3_400x400.jpg" crc="3931845385" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="controller.png" crc="137317238" ref="index">
+    <file name="controller.png" crc="137317238" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1513-8.png" crc="370397119" ref="index"/>
-    <file name="donate.png" crc="120565093" ref="index">
+    <file name="donate.png" crc="120565093" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="matrix.jpg" crc="360321399" ref="index">
+    <file name="matrix.jpg" crc="360321399" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u2063-4.png" crc="4114350853" ref="phone>index"/>
+    <file name="u2083-4.png" crc="3983300925" ref="phone>index"/>
+    <file name="u2086-4.png" crc="3876912019" ref="phone>index"/>
+    <file name="hack-u2182-fr.jpg" crc="3759836532" ref="phone>index"/>
+    <file name="gamedev-u2181-fr.jpg" crc="132033717" ref="phone>index"/>
+    <file name="u2245-7.png" crc="4063490552" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="400079997" seo="true" mt="1597075011557" redirect="true"/>
+  <file name="index.html" crc="376354337" seo="true" mt="1597083541295" redirect="true"/>
 </manifest>
