@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597083905033">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597084088034">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="275707474" ref="phone>index"/>
