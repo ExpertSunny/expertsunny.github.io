@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597084383812">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597084586942">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="275707474" ref="phone>index"/>
@@ -70,5 +70,5 @@
     <file name="gamedev-u2181-fr.jpg" crc="132033717" ref="phone>index"/>
     <file name="u2245-7.png" crc="4063490552" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="3853490871" seo="true" mt="1597084325966" redirect="true"/>
+  <file name="index.html" crc="3853490871" seo="true" mt="1597084564587" redirect="true"/>
 </manifest>
