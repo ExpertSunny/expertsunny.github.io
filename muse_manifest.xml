@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597085555937">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertsunny.xyz" resolutions="1x" timestamp="1597086606817">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="372720449" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="239492598" seo="true" mt="1597085545858" redirect="true"/>
+    <file name="index.html" crc="4108076015" seo="true" mt="1597086585438" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4077411620"/>
@@ -26,7 +26,7 @@
     <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3837263445" ref="phone>index:index"/>
+    <file name="favicon.ico" crc="3837263445" ref="phone>index"/>
     <file name="hack.jpg" crc="181928087" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -70,5 +70,5 @@
     <file name="gamedev-u2181-fr.jpg" crc="132033717" ref="phone>index"/>
     <file name="u2245-7.png" crc="4063490552" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="3853490871" seo="true" mt="1597084932844" redirect="true"/>
+  <file name="index.html" crc="405853088" seo="true" mt="1597086067849" redirect="true"/>
 </manifest>
