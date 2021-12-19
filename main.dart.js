@@ -47597,23 +47597,23 @@ V(a,b){return new S.q5(new F.px(null),"Expert Sunny",X.a6d(null,C.mW),null)}}
 F.px.prototype={
 b0(){return new F.DK(C.o)}}
 F.DK.prototype={
-V(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=T.iR(i,10,i),g=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),C.C8,i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i),f=t.U
+V(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=T.iR(i,10,i),g=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(20,15,20,15),C.C8,i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i),f=t.U
 g=D.pc(T.mI(H.a([Z.en(C.hD),L.ng("Blog  / About",i),Z.en(C.hD)],f),C.bd,C.aY),new F.WB(),g)
 s=T.iR(i,10,i)
-r=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),new P.w(4286790324),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
+r=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(20,15,20,15),new P.w(4286790324),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
 r=D.pc(T.mI(H.a([Z.en(C.hz),L.ng("Instagram",i),Z.en(C.hz)],f),C.bd,C.aY),new F.WC(),r)
 q=T.iR(i,10,i)
-p=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),new P.w(4279137960),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
+p=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(20,15,20,15),new P.w(4279137960),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
 p=D.pc(T.mI(H.a([Z.en(C.hB),L.ng("Linkedin",i),Z.en(C.hB)],f),C.bd,C.aY),new F.WD(),p)
 o=T.iR(i,10,i)
-n=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),new P.w(4280132082),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
+n=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(20,15,20,15),new P.w(4280132082),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
 n=D.pc(T.mI(H.a([Z.en(C.hC),L.ng("Twitter",i),Z.en(C.hC)],f),C.bd,C.aY),new F.WE(),n)
 m=T.iR(i,10,i)
-l=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),new P.w(1045299),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
+l=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(20,15,20,15),new P.w(1045299),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
 l=D.pc(T.mI(H.a([Z.en(C.hy),L.ng("Github",i),Z.en(C.hy)],f),C.bd,C.aY),new F.WF(),l)
 k=T.iR(i,10,i)
-j=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),new P.w(4285762267),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
-return new M.rd(T.a06(T.a4m(H.a([M.JW(i,T.a4m(H.a([new K.vZ(new D.ml("https://pbs.twimg.com/profile_images/723869693220626432/zRl07Ev3_400x400.jpg"),80,i),h,g,s,r,q,p,o,n,m,l,k,D.pc(T.mI(H.a([Z.en(C.hA),L.ng("GamEra Discord",i),Z.en(C.hA)],f),C.bd,C.aY),new F.WG(),j)],f),C.eL),C.C,new P.w(4281678664),new S.aP(0,300,500,500),i,i,new V.aZ(10,10,10,10),new V.aZ(20,20,20,20),i,i,i),L.ng("Made with <3 by Expert Sunny",A.e6(i,i,C.j,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],f),C.eL),i,i),new P.w(4281284160),i)}}
+j=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(20,15,20,15),new P.w(4285762267),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
+return new M.rd(T.a06(T.a4m(H.a([M.JW(i,T.a4m(H.a([new K.vZ(new D.ml("https://pbs.twimg.com/profile_images/723869693220626432/zRl07Ev3_400x400.jpg"),80,i),h,g,s,r,q,p,o,n,m,l,k,D.pc(T.mI(H.a([Z.en(C.hA),L.ng("GamEra Discord",i),Z.en(C.hA)],f),C.bd,C.aY),new F.WG(),j)],f),C.eL),C.C,new P.w(4281678664),new S.aP(0,300,500,1/0),i,i,new V.aZ(10,10,10,10),new V.aZ(20,20,20,20),i,i,i),L.ng("Made with <3 by Expert Sunny",A.e6(i,i,C.j,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],f),C.eL),i,i),new P.w(4281284160),i)}}
 F.WB.prototype={
 $0(){$.dO().eg("open",["https://expertsunny.blogspot.com/"])},
 $S:0}
