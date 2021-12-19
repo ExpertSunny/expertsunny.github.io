@@ -47613,7 +47613,7 @@ l=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),new P.w(1045299),i,i,i,i,i,A.e6
 l=D.pc(T.mI(H.a([Z.en(C.hy),L.ng("Github",i),Z.en(C.hy)],f),C.bd,C.aY),new F.WF(),l)
 k=T.iR(i,10,i)
 j=D.lU(i,i,i,i,i,i,i,i,i,i,new V.aZ(25,15,25,15),new P.w(4285762267),i,i,i,i,i,A.e6(i,i,i,i,i,i,i,i,i,i,i,15,i,C.ah,i,i,!0,i,i,i,i,i,i,i,i),i)
-return new M.rd(T.a06(T.a4m(H.a([M.JW(i,T.a4m(H.a([new K.vZ(new D.ml("https://pbs.twimg.com/profile_images/723869693220626432/zRl07Ev3_400x400.jpg"),80,i),h,g,s,r,q,p,o,n,m,l,k,D.pc(T.mI(H.a([Z.en(C.hA),L.ng("GamEra Discord",i),Z.en(C.hA)],f),C.bd,C.aY),new F.WG(),j)],f),C.eL),C.C,new P.w(4281678664),new S.aP(0,300,200,500),i,i,new V.aZ(10,10,10,10),new V.aZ(20,20,20,20),i,i,i),L.ng("Made with <3 by Expert Sunny",A.e6(i,i,C.j,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],f),C.eL),i,i),new P.w(4281284160),i)}}
+return new M.rd(T.a06(T.a4m(H.a([M.JW(i,T.a4m(H.a([new K.vZ(new D.ml("https://pbs.twimg.com/profile_images/723869693220626432/zRl07Ev3_400x400.jpg"),80,i),h,g,s,r,q,p,o,n,m,l,k,D.pc(T.mI(H.a([Z.en(C.hA),L.ng("GamEra Discord",i),Z.en(C.hA)],f),C.bd,C.aY),new F.WG(),j)],f),C.eL),C.C,new P.w(4281678664),new S.aP(0,300,500,500),i,i,new V.aZ(10,10,10,10),new V.aZ(20,20,20,20),i,i,i),L.ng("Made with <3 by Expert Sunny",A.e6(i,i,C.j,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],f),C.eL),i,i),new P.w(4281284160),i)}}
 F.WB.prototype={
 $0(){$.dO().eg("open",["https://expertsunny.blogspot.com/"])},
 $S:0}
